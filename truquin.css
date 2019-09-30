@@ -1,0 +1,8 @@
+.inicio{
+  text-align: center;
+}
+
+.inicio, .regras_jogo, #duvida{
+  display: none;
+  visibility: hidden;
+}
